@@ -1,5 +1,6 @@
-#CHL7001 Applied Machine Learning for Health Data - Assignment 2
-#Name: Ivy Fong (1000735145)
+#Applied Machine Learning for Health Data
+#Heart Disease Classification Analysis
+#Name: Ivy Fong
 #Date: November 22, 2018
 
 #load packages to be used
