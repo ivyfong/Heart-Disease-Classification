@@ -7,7 +7,7 @@ The objective of this project is to use R to assess the performance of 3 differe
 * Classification tree model
 
 ## **Tools:**
-1.	R - glmnet, pROC, class, epiR, tree 
+R - glmnet, pROC, class, epiR, tree 
 
 ## **Data Source:**
 Heart Disease Dataset: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
