@@ -13,7 +13,6 @@ The objective of this project is to use R to assess the performance of 3 differe
 Heart Disease Dataset: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 ## **Screenshot:**
-
 Final Pruned Classifcation Tree
 
-![figure1.jpeg](FinalTree.jpeg)
+![figure1.jpeg](Images/FinalTree.jpeg)
